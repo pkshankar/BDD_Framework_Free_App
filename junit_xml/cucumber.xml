@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="50.485728">
+    <testcase classname="Free CRM features" name="Free CRM login scenario" time="50.485728">
+        <skipped>
+            <![CDATA[Given user is on login page.................................................passed
+When title of login page is CRM.............................................passed
+Then user enters email address and password.................................undefined
+Then user clicks on login button............................................undefined
+Then user lands on home page................................................undefined
+Then verify user name is displayed on home page.............................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
